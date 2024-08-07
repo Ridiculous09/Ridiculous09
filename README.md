@@ -23,7 +23,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/Ridiculous09/Ridiculous09/images/pfp.png"  />
+<img align="right" height="150" src="images/pfp.png"  />
 
 ###
 
