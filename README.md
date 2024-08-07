@@ -23,7 +23,8 @@
 
 
 ###
-<img align="right" height="100" width="100" src="images/pfp.png" />
+<img align="right" height="120" width="120" src="images/pfp.png" />
+
 ###
 
 <h3 align="left">This is Akshar Doshi a developer with a keen interest in graphic design and modern development tools.</h3>
