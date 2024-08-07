@@ -27,7 +27,17 @@
 
 ###
 
-<h3 align="left">This is Akshar Doshi a developer with a keen interest in graphic design and modern development tools.</h3>
+<h5 align="left">This is Akshar Doshi a developer with a keen interest in graphic design and modern development tools.
+<h6>
+
+- 🌱 I’m currently learning **Backend with Springboot**
+
+- 💬 Ask me about **Design, UI/UX, Music**
+
+- ⚡ Fun fact **I can solve the Rubiks cube in under 25 seconds**
+
+</h6>
+</h5>
 
 ###
 
