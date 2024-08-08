@@ -2,11 +2,38 @@
 
 ###
 
+<!-- <div align="left">
+  <a href="https://www.instagram.com/akshardoshi09/" target="_blank">
+    <svg xmlns="http://www.w3.org/2000/svg" width="150" height="35" viewBox="0 0 150 35">
+      <rect rx="10" width="150" height="35" fill="#E4405F"/>
+      <text x="37" y="22" fill="white" font-size="16" font-family="Arial" text-anchor="middle">Instagram</text>
+    </svg>
+  </a>
+  <a href="mailto:akshardoshi92@gmail.com" target="_blank">
+    <svg xmlns="http://www.w3.org/2000/svg" width="150" height="35" viewBox="0 0 150 35">
+      <rect rx="10" width="150" height="35" fill="#D14836"/>
+      <text x="37" y="22" fill="white" font-size="16" font-family="Arial" text-anchor="middle">Gmail</text>
+    </svg>
+  </a>
+  <a href="https://www.linkedin.com/in/akshar-doshi-551345207/" target="_blank">
+    <svg xmlns="http://www.w3.org/2000/svg" width="150" height="35" viewBox="0 0 150 35">
+      <rect rx="10" width="150" height="35" fill="#0077B5"/>
+      <text x="37" y="22" fill="white" font-size="16" font-family="Arial" text-anchor="middle">LinkedIn</text>
+    </svg>
+  </a>
+  <a href="https://www.behance.net/akshardoshi" target="_blank">
+    <svg xmlns="http://www.w3.org/2000/svg" width="150" height="35" viewBox="0 0 150 35">
+      <rect rx="10" width="150" height="35" fill="#1769ff"/>
+      <text x="37" y="22" fill="white" font-size="16" font-family="Arial" text-anchor="middle">Behance</text>
+    </svg>
+  </a>
+</div> -->
+
 <div align="left">
   <a href="https://www.instagram.com/akshardoshi09/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" style="border-radius: 10px" height="35" alt="instagram logo"  />
   </a>
-  <a href="akshardoshi92@gmail.com" target="_blank">
+  <a href="mailto:akshardoshi92@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" style="border-radius: 10px" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/akshar-doshi-551345207/" target="_blank">
