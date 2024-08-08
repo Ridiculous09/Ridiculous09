@@ -2,45 +2,50 @@
 
 ###
 
-<!-- <div align="left">
-  <a href="https://www.instagram.com/akshardoshi09/" target="_blank">
-    <svg xmlns="http://www.w3.org/2000/svg" width="150" height="35" viewBox="0 0 150 35">
-      <rect rx="10" width="150" height="35" fill="#E4405F"/>
-      <text x="37" y="22" fill="white" font-size="16" font-family="Arial" text-anchor="middle">Instagram</text>
-    </svg>
-  </a>
-  <a href="mailto:akshardoshi92@gmail.com" target="_blank">
-    <svg xmlns="http://www.w3.org/2000/svg" width="150" height="35" viewBox="0 0 150 35">
-      <rect rx="10" width="150" height="35" fill="#D14836"/>
-      <text x="37" y="22" fill="white" font-size="16" font-family="Arial" text-anchor="middle">Gmail</text>
-    </svg>
-  </a>
-  <a href="https://www.linkedin.com/in/akshar-doshi-551345207/" target="_blank">
-    <svg xmlns="http://www.w3.org/2000/svg" width="150" height="35" viewBox="0 0 150 35">
-      <rect rx="10" width="150" height="35" fill="#0077B5"/>
-      <text x="37" y="22" fill="white" font-size="16" font-family="Arial" text-anchor="middle">LinkedIn</text>
-    </svg>
-  </a>
-  <a href="https://www.behance.net/akshardoshi" target="_blank">
-    <svg xmlns="http://www.w3.org/2000/svg" width="150" height="35" viewBox="0 0 150 35">
-      <rect rx="10" width="150" height="35" fill="#1769ff"/>
-      <text x="37" y="22" fill="white" font-size="16" font-family="Arial" text-anchor="middle">Behance</text>
-    </svg>
-  </a>
-</div> -->
-
 <div align="left">
   <a href="https://www.instagram.com/akshardoshi09/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" style="border-radius: 10px" height="35" alt="instagram logo"  />
+    <svg width="123.25" height="28">
+      <rect rx="10" width="123.25" height="28" fill="#E4405F"/>
+      <image href="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" width="123.25" height="28" clip-path="url(#clip-instagram)" />
+      <defs>
+        <clipPath id="clip-instagram">
+          <rect rx="10" width="123.25" height="28"/>
+        </clipPath>
+      </defs>
+    </svg>
   </a>
   <a href="mailto:akshardoshi92@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" style="border-radius: 10px" height="35" alt="gmail logo"  />
+    <svg width="87.25" height="28">
+      <rect rx="10" width="87.25" height="28" fill="#D14836"/>
+      <image href="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" width="87.25" height="28" clip-path="url(#clip-gmail)" />
+      <defs>
+        <clipPath id="clip-gmail">
+          <rect rx="10" width="87.25" height="28"/>
+        </clipPath>
+      </defs>
+    </svg>
   </a>
   <a href="https://www.linkedin.com/in/akshar-doshi-551345207/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" style="border-radius: 10px" height="35" alt="linkedin logo"  />
+    <svg width="111" height="28">
+      <rect rx="10" width="111" height="28" fill="#0077B5"/>
+      <image href="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" width="111" height="28" clip-path="url(#clip-linkedin)" />
+      <defs>
+        <clipPath id="clip-linkedin">
+          <rect rx="10" width="111" height="28"/>
+        </clipPath>
+      </defs>
+    </svg>
   </a>
   <a href="https://www.behance.net/akshardoshi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" style="border-radius: 10px" height="35" alt="behance logo"  />
+    <svg width="105.75" height="28">
+      <rect rx="10" width="105.75" height="28" fill="#1769ff"/>
+      <image href="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" width="105.75" height="28" clip-path="url(#clip-behance)" />
+      <defs>
+        <clipPath id="clip-behance">
+          <rect rx="10" width="105.75" height="28"/>
+        </clipPath>
+      </defs>
+    </svg>
   </a>
 </div>
 
@@ -79,21 +84,21 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="35" alt="cplusplus logo"  />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="28" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="28" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="35" alt="javascript logo"  />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="28" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="nodejs logo"  />
 </div>
 
 ###
@@ -103,25 +108,25 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="35" alt="bash logo"  />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="28" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="35" alt="git logo"  />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="28" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="35" alt="intellij logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="28" alt="intellij logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="28" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="35" alt="docker logo"  />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="28" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="35" alt="postman logo"  />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="28" alt="postman logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="35" alt="adobephotoshop logo"  />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="28" alt="adobephotoshop logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="35" alt="adobeillustrator logo"  />
+  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="28" alt="adobeillustrator logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="28" alt="figma logo"  />
 </div>
 
 ###
