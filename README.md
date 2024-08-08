@@ -4,6 +4,20 @@
 
 <div align="left">
   <a href="https://www.instagram.com/akshardoshi09/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" style="border-radius: 10px" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:akshardoshi92@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" style="border-radius: 10px" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/akshar-doshi-551345207/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" style="border-radius: 10px" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.behance.net/akshardoshi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" style="border-radius: 10px" height="35" alt="behance logo"  />
+  </a>
+</div>
+<!-- <div align="left">
+  <a href="https://www.instagram.com/akshardoshi09/" target="_blank">
     <svg width="123.25" height="28">
       <rect rx="10" width="123.25" height="28" fill="#E4405F"/>
       <image href="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" width="123.25" height="28" clip-path="url(#clip-instagram)" />
@@ -47,7 +61,7 @@
       </defs>
     </svg>
   </a>
-</div>
+</div> -->
 
 ###
 
